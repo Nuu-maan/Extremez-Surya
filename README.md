@@ -21,24 +21,26 @@ I believe in building **cool projects** that provide value while learning new th
 
 ## 🔧 **Technologies & Tools**
 
-💻 **Programming Languages**:  
+Here’s a quick overview of the tech I work with:
+
+### 💻 **Programming Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-%232F7D78?style=flat&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 
-🛠 **Frameworks & Libraries**:  
+### 🛠 **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-%23282C34?style=flat&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=flat&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat&logo=express&logoColor=white)  
-![Three.js](https://img.shields.io/badge/Three.js-%232F2F2F?style=flat&logo=three.js&logoColor=white)  
+![Three.js](https://img.shields.io/badge/Three.js-%232F2F2F?style=flat&logo=three.js&logoColor=white)
 
-🗄 **Databases**:  
+### 🗄 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 
-⚙️ **Tools**:  
+### ⚙️ **Tools**  
 ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
@@ -82,4 +84,3 @@ Feel free to check out my repositories, star them if you like, and don’t hesit
 <a href="https://www.linkedin.com/in/vinay-kumar-tec/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/vinni_ily_143/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.youtube.com/@theextremez2.0?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-
